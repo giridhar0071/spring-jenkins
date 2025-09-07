@@ -13,7 +13,7 @@ class IntegrationwithjenkinsApplicationTests {
 
 	@Test
 	public void  contextLoads() {
-		logger.info("Test is executing");
+		
 		assertEquals(true,true);
 	}
 
