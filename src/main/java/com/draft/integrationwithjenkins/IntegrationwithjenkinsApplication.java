@@ -17,6 +17,7 @@ public class IntegrationwithjenkinsApplication {
 
 	public static void main(String[] args) {
 		logger.info("Application executed");
+		logger.info("Application executed2");
 
 		SpringApplication.run(IntegrationwithjenkinsApplication.class, args);
 	}
