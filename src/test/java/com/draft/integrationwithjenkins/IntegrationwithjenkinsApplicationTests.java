@@ -12,7 +12,7 @@ class IntegrationwithjenkinsApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(IntegrationwithjenkinsApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	public contextLoads() {
 		logger.info("Test is executing");
 		assertEquals(true,true);
 	}
